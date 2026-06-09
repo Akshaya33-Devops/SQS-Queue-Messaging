@@ -1,6 +1,6 @@
 
 
-# 📦 Project 38: SQS Queue Messaging
+# 📦 Project : SQS Queue Messaging
 
 ## 🎯 Purpose
 
